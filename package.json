@@ -1,0 +1,24 @@
+{
+  "name": "caldav",
+  "version": "0.0.1",
+  "description": "Node CalDAV Client",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JacksonTian/node-caldav.git"
+  },
+  "keywords": [
+    "CalDAV",
+    "Canlendar",
+    "TODO"
+  ],
+  "author": "Jackson Tian",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
